@@ -1,0 +1,43 @@
+.highlight {
+    color: red;
+}
+
+
+.body {
+    font-family: Arial, sans-serif;
+    background-color: #ffffffe8;
+    color: #000000;
+
+
+
+}
+
+
+/* Style the header element */
+.header {
+    background-color: #4e5154;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+}
+
+/* Style the navigation menu */
+.nav {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+}
+
+/* Style the main content area */
+.main {
+    padding: 20px;
+}
+
+/* Style the footer */
+.footer {
+    background-color: burlywood;
+    color: #070C0B;
+    text-align: center;
+    padding: 55px;
+
+}
